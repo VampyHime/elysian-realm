@@ -21,13 +21,13 @@ builds: [
         {
           time: "Early",
           sigils: "Because of You",
-          support_1: "",
-          support_2: "",
+          support_1: "SA",
+          support_2: "SS",
         },
         {
           time: "Mid",
-          sigils: "",
-          support_1: "",
+          sigils: "S",
+          support_1: "SS",
           support_2: "SA",
         },
         {
